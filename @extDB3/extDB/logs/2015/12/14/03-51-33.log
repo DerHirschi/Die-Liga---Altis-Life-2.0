@@ -1,0 +1,32 @@
+extDB2: Version: 69
+extDB2: https://github.com/Torndeco/extDB2
+extDB2: Windows Version
+Message: All development for extDB2 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB2 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 20/02/15
+
+
+extDB2: Found extdb-conf.ini
+extDB2: Detected 6 Cores, Setting up 6 Worker Threads
+
+
+[04:51:33:313582 +02:00] [Thread 225408] extDB2: Database Type: MySQL
+[04:51:33:320582 +02:00] [Thread 225408] extDB2: Database Session Pool Started
+[04:51:33:320582 +02:00] [Thread 225408] extDB2: SQL_CUSTOM_V2: Loading Template Filename: C:\ArmA3_TEST\A3Hirschi\@extDB2\extDB\sql_custom_v2\altis-life-rpg-4.ini
+[04:51:33:320582 +02:00] [Thread 225408] extDB2: SQL_CUSTOM_V2: Version 12 Detected, Latest Version 12 Available
+[04:52:22:157375 +02:00] [Thread 236344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String SELECT COUNT(*) FROM houses WHERE owned='1'
+[04:52:22:157375 +02:00] [Thread 236344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname SELECT COUNT(*) FROM houses WHERE owned='1'
+[04:53:35:344561 +02:00] [Thread 236344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String SELECT list,id from wanted
+[04:53:35:344561 +02:00] [Thread 236344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname SELECT list,id from wanted
+[04:53:35:380563 +02:00] [Thread 236344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String SELECT typ, stk FROM ligaWH
+[04:53:35:380563 +02:00] [Thread 236344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname SELECT typ, stk FROM ligaWH
+[04:53:35:380563 +02:00] [Thread 236344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String SELECT resource, price FROM resources
+[04:53:35:380563 +02:00] [Thread 236344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname SELECT resource, price FROM resources
+[04:53:35:380563 +02:00] [Thread 236344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String SELECT leim FROM ligaworld
+[04:53:35:380563 +02:00] [Thread 236344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname SELECT leim FROM ligaworld
+[12:51:54:891082 +02:00] [Thread 236344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String UPDATE ligaworld SET leim='any' 
+[12:51:54:891082 +02:00] [Thread 236344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname UPDATE ligaworld SET leim='any' 
+[00:33:02:630219 +02:00] [Thread 225408] extDB2: Stopping ...
